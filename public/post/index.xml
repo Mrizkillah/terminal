@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Terminal</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 May 2022 23:43:48 +0700</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ama</title>
+      <link>/post/ama/</link>
+      <pubDate>Sun, 15 May 2022 23:43:48 +0700</pubDate>
+      
+      <guid>/post/ama/</guid>
+      <description>hari ini aku belajar banyak dari bang bilal </description>
+      <content>&lt;h1 id=&#34;hari-ini-aku-belajar-banyak-dari-bang-bilal&#34;&gt;hari ini aku belajar banyak dari bang bilal&lt;/h1&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
